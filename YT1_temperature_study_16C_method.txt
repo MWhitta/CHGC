@@ -1,0 +1,152 @@
+YT1_temperature_study_16C_method                                06.10.2022 09:43
+________________________________________________________________________________
+
+Method           : YT1_temperature_study_16C_method, 03.10.2022 13:47:51
+                   Not released
+Created by       : TGA/DSC3+
+Sample Holder    : Aluminum Standard 40ul
+TA Technique     : TGA
+Start Temperature: 16.00 °C
+End Temperature  : 16.00 °C
+Humid gas flow   : 100 ml/min
+Sample
+  Range of Weight: 0.00 - 5000.00 mg
+Sampling Interval: 1.00 s
+Insertion Temperature
+  Automatic
+Removal Temperature
+  Automatic
+  No Hold
+Experiment settling enabled
+
+Segment 1
+  Temperature   : 16.00 °C
+  Duration      : 240.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Segment 2
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 3
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 4
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 5
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 6
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 7
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 8
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 9
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 10
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 11
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 100.00 %
+
+Segment 12
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 13
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 14
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 15
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 16
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 17
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 18
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 19
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 20
+  Temperature   : 16.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 21
+  Temperature   : 16.00 °C
+  Duration      : 240.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Compensate for Buoyancy
+Synchronization enabled
+
+________________________________________________________________________________
+                                                                  STARe SW 16.30

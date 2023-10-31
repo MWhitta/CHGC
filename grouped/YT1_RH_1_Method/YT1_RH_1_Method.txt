@@ -1,0 +1,1226 @@
+YT1_16A                                                         15.07.2022 15:09
+________________________________________________________________________________
+
+Method           : YT1_16A, 01.07.2022 13:48:26
+                   Not released
+Created by       : TGA/DSC3+
+Sample Holder    : No Pan
+TA Technique     : TGA
+Start Temperature: 18.00 °C
+End Temperature  : 18.00 °C
+Humid gas flow   : 100 ml/min
+Sample
+  Range of Weight: 0.00 - 5000.00 mg
+Sampling Interval: 1.00 s
+Insertion Temperature
+  Automatic
+Removal Temperature
+  Automatic
+  No Hold
+Experiment settling enabled
+
+Segment 1
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Segment 2
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 1.00 %
+
+Segment 3
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 2.00 %
+
+Segment 4
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 3.00 %
+
+Segment 5
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 4.00 %
+
+Segment 6
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 5.00 %
+
+Segment 7
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 6.00 %
+
+Segment 8
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 7.00 %
+
+Segment 9
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 8.00 %
+
+Segment 10
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 9.00 %
+
+Segment 11
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 12
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 11.00 %
+
+Segment 13
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 12.00 %
+
+Segment 14
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 13.00 %
+
+Segment 15
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 14.00 %
+
+Segment 16
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 15.00 %
+
+Segment 17
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 16.00 %
+
+Segment 18
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 17.00 %
+
+Segment 19
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 18.00 %
+
+Segment 20
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 19.00 %
+
+Segment 21
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 22
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 21.00 %
+
+Segment 23
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 22.00 %
+
+Segment 24
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 23.00 %
+
+Segment 25
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 24.00 %
+
+Segment 26
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 27
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 26.00 %
+
+Segment 28
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 27.00 %
+
+Segment 29
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 28.00 %
+
+Segment 30
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 29.00 %
+
+Segment 31
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 32
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 31.00 %
+
+Segment 33
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 32.00 %
+
+Segment 34
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 33.00 %
+
+Segment 35
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 34.00 %
+
+Segment 36
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 35.00 %
+
+Segment 37
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 36.00 %
+
+Segment 38
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 37.00 %
+
+Segment 39
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 38.00 %
+
+Segment 40
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 39.00 %
+
+Segment 41
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 42
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 41.00 %
+
+Segment 43
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 42.00 %
+
+Segment 44
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 43.00 %
+
+Segment 45
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 44.00 %
+
+Segment 46
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 45.00 %
+
+Segment 47
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 46.00 %
+
+Segment 48
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 47.00 %
+
+Segment 49
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 48.00 %
+
+Segment 50
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 49.00 %
+
+Segment 51
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 52
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 51.00 %
+
+Segment 53
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 52.00 %
+
+Segment 54
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 53.00 %
+
+Segment 55
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 54.00 %
+
+Segment 56
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 55.00 %
+
+Segment 57
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 56.00 %
+
+Segment 58
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 57.00 %
+
+Segment 59
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 58.00 %
+
+Segment 60
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 59.00 %
+
+Segment 61
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 62
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 61.00 %
+
+Segment 63
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 62.00 %
+
+Segment 64
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 63.00 %
+
+Segment 65
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 64.00 %
+
+Segment 66
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 65.00 %
+
+Segment 67
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 66.00 %
+
+Segment 68
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 67.00 %
+
+Segment 69
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 68.00 %
+
+Segment 70
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 69.00 %
+
+Segment 71
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 72
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 71.00 %
+
+Segment 73
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 72.00 %
+
+Segment 74
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 73.00 %
+
+Segment 75
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 74.00 %
+
+Segment 76
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 77
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 76.00 %
+
+Segment 78
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 77.00 %
+
+Segment 79
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 78.00 %
+
+Segment 80
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 79.00 %
+
+Segment 81
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 82
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 81.00 %
+
+Segment 83
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 82.00 %
+
+Segment 84
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 83.00 %
+
+Segment 85
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 84.00 %
+
+Segment 86
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 85.00 %
+
+Segment 87
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 86.00 %
+
+Segment 88
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 87.00 %
+
+Segment 89
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 88.00 %
+
+Segment 90
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 89.00 %
+
+Segment 91
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 92
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 91.00 %
+
+Segment 93
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 92.00 %
+
+Segment 94
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 93.00 %
+
+Segment 95
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 94.00 %
+
+Segment 96
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 95.00 %
+
+Segment 97
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 96.00 %
+
+Segment 98
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 97.00 %
+
+Segment 99
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 98.00 %
+
+Segment 100
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 99.00 %
+
+Segment 101
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 100.00 %
+
+Segment 102
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 99.00 %
+
+Segment 103
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 98.00 %
+
+Segment 104
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 97.00 %
+
+Segment 105
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 96.00 %
+
+Segment 106
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 95.00 %
+
+Segment 107
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 94.00 %
+
+Segment 108
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 93.00 %
+
+Segment 109
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 92.00 %
+
+Segment 110
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 91.00 %
+
+Segment 111
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 112
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 89.00 %
+
+Segment 113
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 88.00 %
+
+Segment 114
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 87.00 %
+
+Segment 115
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 86.00 %
+
+Segment 116
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 85.00 %
+
+Segment 117
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 84.00 %
+
+Segment 118
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 83.00 %
+
+Segment 119
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 82.00 %
+
+Segment 120
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 81.00 %
+
+Segment 121
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 122
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 79.00 %
+
+Segment 123
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 78.00 %
+
+Segment 124
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 77.00 %
+
+Segment 125
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 76.00 %
+
+Segment 126
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 127
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 74.00 %
+
+Segment 128
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 73.00 %
+
+Segment 129
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 72.00 %
+
+Segment 130
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 71.00 %
+
+Segment 131
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 132
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 69.00 %
+
+Segment 133
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 68.00 %
+
+Segment 134
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 67.00 %
+
+Segment 135
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 66.00 %
+
+Segment 136
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 65.00 %
+
+Segment 137
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 64.00 %
+
+Segment 138
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 63.00 %
+
+Segment 139
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 62.00 %
+
+Segment 140
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 61.00 %
+
+Segment 141
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 142
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 59.00 %
+
+Segment 143
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 58.00 %
+
+Segment 144
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 57.00 %
+
+Segment 145
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 56.00 %
+
+Segment 146
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 55.00 %
+
+Segment 147
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 54.00 %
+
+Segment 148
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 53.00 %
+
+Segment 149
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 52.00 %
+
+Segment 150
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 51.00 %
+
+Segment 151
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 152
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 49.00 %
+
+Segment 153
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 48.00 %
+
+Segment 154
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 47.00 %
+
+Segment 155
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 46.00 %
+
+Segment 156
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 45.00 %
+
+Segment 157
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 44.00 %
+
+Segment 158
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 43.00 %
+
+Segment 159
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 42.00 %
+
+Segment 160
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 41.00 %
+
+Segment 161
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 162
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 39.00 %
+
+Segment 163
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 38.00 %
+
+Segment 164
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 37.00 %
+
+Segment 165
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 36.00 %
+
+Segment 166
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 35.00 %
+
+Segment 167
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 34.00 %
+
+Segment 168
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 33.00 %
+
+Segment 169
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 32.00 %
+
+Segment 170
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 31.00 %
+
+Segment 171
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 172
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 29.00 %
+
+Segment 173
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 28.00 %
+
+Segment 174
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 27.00 %
+
+Segment 175
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 26.00 %
+
+Segment 176
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 177
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 24.00 %
+
+Segment 178
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 23.00 %
+
+Segment 179
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 22.00 %
+
+Segment 180
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 21.00 %
+
+Segment 181
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 182
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 19.00 %
+
+Segment 183
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 18.00 %
+
+Segment 184
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 17.00 %
+
+Segment 185
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 16.00 %
+
+Segment 186
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 15.00 %
+
+Segment 187
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 14.00 %
+
+Segment 188
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 13.00 %
+
+Segment 189
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 12.00 %
+
+Segment 190
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 11.00 %
+
+Segment 191
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 192
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 9.00 %
+
+Segment 193
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 8.00 %
+
+Segment 194
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 7.00 %
+
+Segment 195
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 6.00 %
+
+Segment 196
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 5.00 %
+
+Segment 197
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 4.00 %
+
+Segment 198
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 3.00 %
+
+Segment 199
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 2.00 %
+
+Segment 200
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 1.00 %
+
+Compensate for Buoyancy
+Synchronization enabled
+
+________________________________________________________________________________
+                                                                  STARe SW 16.30

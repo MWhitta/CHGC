@@ -1,0 +1,272 @@
+YT1_15A                                                         29.06.2022 22:14
+________________________________________________________________________________
+
+Method           : YT1_15A, 27.06.2022 10:30:20
+                   Not released
+Created by       : TGA/DSC3+
+Sample Holder    : No Pan
+TA Technique     : TGA
+Start Temperature: 18.00 °C
+End Temperature  : 18.00 °C
+Humid gas flow   : 100 ml/min
+Sample
+  Range of Weight: 0.00 - 5000.00 mg
+Sampling Interval: 1.00 s
+Insertion Temperature
+  Automatic
+Removal Temperature
+  Automatic
+  No Hold
+Experiment settling enabled
+
+Segment 1
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Segment 2
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 5.00 %
+
+Segment 3
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 4
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 15.00 %
+
+Segment 5
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 6
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 7
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 8
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 35.00 %
+
+Segment 9
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 10
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 45.00 %
+
+Segment 11
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 12
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 55.00 %
+
+Segment 13
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 14
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 65.00 %
+
+Segment 15
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 16
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 17
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 18
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 85.00 %
+
+Segment 19
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 20
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 95.00 %
+
+Segment 21
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 100.00 %
+
+Segment 22
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 95.00 %
+
+Segment 23
+  Temperature   : 17.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 90.00 %
+
+Segment 24
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 85.00 %
+
+Segment 25
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 80.00 %
+
+Segment 26
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 27
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 70.00 %
+
+Segment 28
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 65.00 %
+
+Segment 29
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 60.00 %
+
+Segment 30
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 55.00 %
+
+Segment 31
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 32
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 45.00 %
+
+Segment 33
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 40.00 %
+
+Segment 34
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 35.00 %
+
+Segment 35
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 30.00 %
+
+Segment 36
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 37
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 20.00 %
+
+Segment 38
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 15.00 %
+
+Segment 39
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 10.00 %
+
+Segment 40
+  Temperature   : 18.00 °C
+  Duration      : 30.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 5.00 %
+
+Segment 41
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Compensate for Buoyancy
+Synchronization enabled
+
+________________________________________________________________________________
+                                                                  STARe SW 16.30

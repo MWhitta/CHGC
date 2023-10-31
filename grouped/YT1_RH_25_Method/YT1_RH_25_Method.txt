@@ -1,0 +1,80 @@
+YT1_12A                                                         29.06.2022 19:20
+________________________________________________________________________________
+
+Method           : YT1_12A, 22.06.2022 17:11:11
+                   Not released
+Created by       : TGA/DSC3+
+Sample Holder    : No Pan
+TA Technique     : TGA
+Start Temperature: 18.00 °C
+End Temperature  : 18.00 °C
+Humid gas flow   : 100 ml/min
+Sample
+  Range of Weight: 0.00 - 5000.00 mg
+Sampling Interval: 1.00 s
+Insertion Temperature
+  Automatic
+Removal Temperature
+  Automatic
+  No Hold
+Experiment settling enabled
+
+Segment 1
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Segment 2
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 3
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 4
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 5
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 100.00 %
+
+Segment 6
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 75.00 %
+
+Segment 7
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 50.00 %
+
+Segment 8
+  Temperature   : 18.00 °C
+  Duration      : 60.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 25.00 %
+
+Segment 9
+  Temperature   : 18.00 °C
+  Duration      : 120.00 min
+  Gas           : N2, 1 ml/min
+  Rel. humidity : 0.00 %
+
+Compensate for Buoyancy
+Synchronization enabled
+
+________________________________________________________________________________
+                                                                  STARe SW 16.30
